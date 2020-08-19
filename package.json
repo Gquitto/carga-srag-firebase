@@ -1,0 +1,17 @@
+{
+  "name": "carga-srag-firebase",
+  "version": "1.0.0",
+  "description": "Bot de carga arquivo srag no firebase",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme B Quitto",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.0.0"
+  }
+}

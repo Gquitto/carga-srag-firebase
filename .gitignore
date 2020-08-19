@@ -1,0 +1,6 @@
+#Ignorar
+node_modules/*
+locket/*
+
+#Exceto
+!locket/def.txt
